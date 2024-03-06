@@ -1,0 +1,24 @@
+/* font external link */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.image-login {
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.R-cLivFxW8EWeK3r9kdGmgHaJ4&pid=Api');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.login {
+    font-family: 'Roboto',sans-serif;
+    font-weight: bold;
+}
+.image-register {
+    background-image: url('https://i.pinimg.com/originals/d0/ba/0e/d0ba0eb74399ba1d9cfc00be4754f255.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.image {
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
